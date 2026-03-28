@@ -35,22 +35,26 @@
 
 ---
 
-## 🚀 Projects
+## ## 🚀 Projects
 
 ### 🔹 IPL Chatbot
 
-* AI-based chatbot for cricket insights & match analysis
-* Uses LLM + structured data
+* Built an AI-powered chatbot to provide real-time cricket insights
+* Integrated LLM with structured match data for accurate responses
+* Designed backend APIs for query handling
 
 ### 🔹 Idea Validation Model
 
-* AI system to evaluate startup ideas
-* Helps in decision-making using data
+* Developed an AI-based system to evaluate startup ideas
+* Uses multiple parameters like feasibility, scalability, and market demand
+* Helps users make data-driven decisions
 
 ### 🔹 ReWear – Community Clothing Exchange
 
-* Backend + Database architecture (MongoDB + Express)
-* Features: item listing, user interaction, exchange system
+* Designed REST APIs using Node.js & Express
+* Implemented MongoDB schema for users, items, and exchanges
+* Built core features like item listing, request system, and user interaction
+
 
 
 ---
