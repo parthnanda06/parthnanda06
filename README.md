@@ -58,12 +58,19 @@
 
 
 ---
-
 ## 💡 Currently Learning
 
 * Data Structures & Algorithms
 * System Design basics
 * Scalable backend systems
+
+---
+
+##  💼 What I Can Do
+Build full-stack web applications 
+Design scalable backend systems & APIs
+Work with MongoDB schema design
+Integrate AI into real-world applications
 
 ---
 
