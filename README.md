@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Parth%20Nanda\&fontSize=40\&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Parth%20Bhanushali\&fontSize=40\&fontAlignY=35)
 
 # 👋 Hey, I'm Parth Bhanushali
 
