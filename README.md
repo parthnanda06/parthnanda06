@@ -7,7 +7,7 @@
 <!-- 🔥 TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Applications;Building+Real+World+Projects&speed=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Applications;Building+Real+World+Projects&speed=50" />
 </p>
 
 <!-- 🔥 PROFILE STATS -->
@@ -24,7 +24,7 @@
 
 ```js
 const parth = {
-  role       : "Full Stack Developer",
+  role       : "Backend-Focused Full Stack Developer",
   education  : "B.Tech CS (AI) - 3rd Year",
   location   : "Gujarat, India 🇮🇳",
   focus      : "Scalable backend systems + AI-integrated applications",
@@ -43,25 +43,37 @@ const parth = {
 
 ---
 
-## 👯 Open to Collaborate On
+## 💻 Tech Stack
 
-* Backend-heavy applications
-* AI-integrated systems
-* Real-world problem-solving projects
-
----
-
-## 🌱 Currently Learning
-
-* Data Structures & Algorithms
-* System Design
-* Production-level backend architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,python,git" />
+</p>
 
 ---
 
-## 💬 Ask Me About
+## 🚀 Featured Projects
 
-Node.js · Express · MongoDB · REST APIs · MERN Stack · AI Integration
+### 🧥 [ReWear — Community Clothing Exchange](https://github.com/Ujjwal212004/Odoo-Hackathon2025)
+
+* Backend-focused MERN application
+* Designed APIs for item listing, exchange flow, and user interaction
+* Structured MongoDB schema for scalability
+
+---
+
+### 💬 [IPL AI Chatbot](https://github.com/parthnanda06/iplchatapplication)
+
+* AI chatbot providing real-time cricket insights
+* Integrated LLM with structured data
+* Backend APIs for dynamic queries
+
+---
+
+### 🤖 [Idea Validation System](https://github.com/parthnanda06/ideavalidate)
+
+* Evaluates startup ideas using feasibility & scalability metrics
+* Backend scoring logic
+* Helps in data-driven decision making
 
 ---
 
@@ -74,54 +86,6 @@ Node.js · Express · MongoDB · REST APIs · MERN Stack · AI Integration
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,python,git" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧥 ReWear — Community Clothing Exchange
-
-* Backend-focused MERN application
-* Designed APIs for item listing, exchange flow, and user interaction
-* Structured MongoDB schema for scalability
-
----
-
-### 💬 IPL AI Chatbot
-
-* AI chatbot providing real-time cricket insights
-* Integrated LLM with structured data
-* Backend APIs for dynamic queries
-
----
-
-### 🤖 Idea Validation System
-
-* Evaluates startup ideas using feasibility & scalability metrics
-* Backend scoring logic
-
----
-
-## 🎓 Education
-
-B.Tech Computer Science (AI)
-3rd Year Student
-
----
-
-## 🏅 Certifications
-
-* 🎓 Getting Started with Artificial Intelligence — IBM
-* 📱 App Developer — Udemy
-* 🤖 Machine Learning — Udemy
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -130,22 +94,6 @@ B.Tech Computer Science (AI)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthBhanushali&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthBhanushali&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthBhanushali&theme=onedark" />
 </p>
 
 ---
