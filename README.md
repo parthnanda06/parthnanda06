@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Parth%20Bhanushali\&fontSize=40\&fontAlignY=35)
 
-# 👋 Hey, I'm Parth Bhanushali
-
-🚀 Full Stack Developer | AI Enthusiast | Problem Solver
-
+<h1 align="center">Hi 👋, I'm Parth Bhanushali</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 ---
 
 ## 🧠 About Me
