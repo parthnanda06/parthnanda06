@@ -1,13 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Parth%20Bhanushali\&fontSize=40\&fontAlignY=35)
+<!-- 🔥 HEADER -->
 
 <p align="center">
-  <b style="font-size:22px; color:#00F7FF;">
-    Backend-Focused Full Stack Developer | MERN | AI Integration
-  </b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Parth%20Bhanushali&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
+
+<!-- 🔥 TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Applications;Building+Real+World+Projects&speed=50" />
+</p>
+
+<!-- 🔥 PROFILE STATS -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthBhanushali&label=Profile%20Views&color=0e75b6&style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ParthBhanushali?label=Followers&style=flat&color=0e75b6" />
 </p>
 
 ---
@@ -19,7 +27,7 @@ const parth = {
   role       : "Backend-Focused Full Stack Developer",
   education  : "B.Tech CS (AI) - 3rd Year",
   location   : "Gujarat, India 🇮🇳",
-  focus      : "Building scalable backend systems & AI-integrated apps",
+  focus      : "Scalable backend systems + AI-integrated applications",
   strength   : "Strong code understanding + fast execution",
   goal       : "Product-based company placement (backend roles)",
 };
@@ -30,32 +38,24 @@ const parth = {
 ## 🔭 Currently Building
 
 * 🧥 ReWear — Community Clothing Exchange (MERN + MongoDB)
-* ⚙️ Backend systems with authentication, APIs & admin control
-* 🤖 AI-based tools for real-world use cases
+* ⚙️ Backend systems with authentication, APIs & admin panel
+* 🤖 AI-powered tools solving real-world problems
 
 ---
 
 ## 👯 Open to Collaborate On
 
-* Backend-heavy projects
-* Real-world problem-solving applications
-* AI + web integration systems
+* Backend-heavy applications
+* AI-integrated systems
+* Real-world problem-solving projects
 
 ---
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms (placement focused)
+* Data Structures & Algorithms
 * System Design (scalability, APIs, load handling)
-* Writing clean & production-level backend code
-
----
-
-## 🤝 Looking for Help With
-
-* Designing scalable systems
-* Backend performance optimization
-* Industry-level project architecture
+* Production-level backend architecture
 
 ---
 
@@ -67,40 +67,18 @@ Node.js · Express · MongoDB · REST APIs · MERN Stack · AI Integration
 
 ## 🌐 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/parth-bhanushali-dev/
-* Email: [parthnanda06@gmail.com](mailto:parthnanda06@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-bhanushali-dev/">LinkedIn</a> • 
+  <a href="mailto:parthnanda06@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🖥️ Languages
-
-JavaScript · Python
-
-### 🚀 Backend
-
-Node.js · Express · REST APIs
-
-### 🎨 Frontend
-
-React · TypeScript
-
-### 🗄️ Database
-
-MongoDB
-
-### ☁️ Deployment
-
-Vercel · Render
-
-### 🤖 AI
-
-ChatGPT API · Prompt Engineering
-
-### 🛠️ Tools
-
-Git · GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,python,git" />
+</p>
 
 ---
 
@@ -108,7 +86,7 @@ Git · GitHub
 
 ### 🧥 ReWear — Community Clothing Exchange
 
-* Built using MERN stack with backend-focused architecture
+* Backend-focused MERN application
 * Designed APIs for item listing, exchange flow, and user interaction
 * Structured MongoDB schema for scalability
 
@@ -117,16 +95,16 @@ Git · GitHub
 ### 💬 IPL AI Chatbot
 
 * AI chatbot providing real-time cricket insights
-* Integrated LLM with structured data for better accuracy
-* Backend API handling for dynamic queries
+* Integrated LLM with structured data
+* Backend APIs for dynamic queries
 
 ---
 
 ### 🤖 Idea Validation System
 
 * Evaluates startup ideas using feasibility & scalability metrics
-* Backend-based scoring logic
-* Helps users make data-driven decisions
+* Backend scoring logic
+* Helps in data-driven decision making
 
 ---
 
@@ -157,14 +135,6 @@ B.Tech Computer Science (AI)
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthBhanushali&theme=onedark" />
-</p>
-
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
@@ -173,11 +143,11 @@ B.Tech Computer Science (AI)
 
 ---
 
-## 🚀 Highlighted Work
+## 🏆 GitHub Achievements
 
-* ReWear (Backend-focused MERN system)
-* IPL AI Chatbot (LLM + API integration)
-* Idea Validation System (AI-based scoring engine)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthBhanushali&theme=onedark" />
+</p>
 
 ---
 
