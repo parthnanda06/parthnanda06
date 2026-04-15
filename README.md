@@ -57,12 +57,6 @@ MERN Stack · Node.js · Express · MongoDB · APIs · AI Integration
 
 ---
 
-## 🏅 Certifications
-
-AWS (Basic) · Computer Networks (NPTEL)
-
----
-
 ## 🌐 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/parth-bhanushali-dev/
@@ -119,19 +113,18 @@ Evaluates startup ideas based on feasibility, scalability, and demand.
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🎓 Education
+## 🎓 Education
 
 B.Tech Computer Science (AI)
 3rd Year Student
 
 ---
 
-### 🏅 Certifications
+## 🏅 Certifications
 
-* AWS Basics
-* NPTEL Computer Networks
+* 🎓 Getting Started with Artificial Intelligence — IBM
+* 📱 App Developer — Udemy
+* 🤖 Machine Learning — Udemy
 
 ---
 
