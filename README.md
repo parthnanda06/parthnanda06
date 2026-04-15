@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Parth%20Bhanushali\&fontSize=40\&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+Powered+Apps;Backend+Focused;Building+Real+World+Projects" />
+  <b style="font-size:22px; color:#00F7FF;">
+    Backend-Focused Full Stack Developer | MERN | AI Integration
+  </b>
 </p>
 
 <p align="center">
@@ -14,14 +16,12 @@
 
 ```js
 const parth = {
-  name       : "Parth Bhanushali",
-  alias      : "parthdev",
+  role       : "Backend-Focused Full Stack Developer",
+  education  : "B.Tech CS (AI) - 3rd Year",
   location   : "Gujarat, India 🇮🇳",
-  education  : "B.Tech CS (AI) — 3rd Year",
-  focus      : "Full Stack Development + AI-powered Web Apps",
-  philosophy : "Build real-world products, not just tutorials 🚀",
-  building   : "Scalable backend systems & AI-integrated tools",
-  funFact    : "I turn chai ☕ and ideas 💡 into working products",
+  focus      : "Building scalable backend systems & AI-integrated apps",
+  strength   : "Strong code understanding + fast execution",
+  goal       : "Product-based company placement (backend roles)",
 };
 ```
 
@@ -29,31 +29,39 @@ const parth = {
 
 ## 🔭 Currently Building
 
-Real-world applications using MERN stack and AI — including scalable backend systems, API-based platforms, and problem-solving tools.
+* 🧥 ReWear — Community Clothing Exchange (MERN + MongoDB)
+* ⚙️ Backend systems with authentication, APIs & admin control
+* 🤖 AI-based tools for real-world use cases
 
 ---
 
 ## 👯 Open to Collaborate On
 
-Open-source projects, backend-heavy applications, and AI-integrated products solving real-world problems.
+* Backend-heavy projects
+* Real-world problem-solving applications
+* AI + web integration systems
 
 ---
 
 ## 🌱 Currently Learning
 
-Data Structures & Algorithms, System Design, and production-level backend architecture.
+* Data Structures & Algorithms (placement focused)
+* System Design (scalability, APIs, load handling)
+* Writing clean & production-level backend code
 
 ---
 
 ## 🤝 Looking for Help With
 
-Scaling applications, performance optimization, and system design at scale.
+* Designing scalable systems
+* Backend performance optimization
+* Industry-level project architecture
 
 ---
 
 ## 💬 Ask Me About
 
-MERN Stack · Node.js · Express · MongoDB · APIs · AI Integration
+Node.js · Express · MongoDB · REST APIs · MERN Stack · AI Integration
 
 ---
 
@@ -70,11 +78,15 @@ MERN Stack · Node.js · Express · MongoDB · APIs · AI Integration
 
 JavaScript · Python
 
-### 🚀 Frontend & Backend
+### 🚀 Backend
 
-React · Node.js · Express · TypeScript
+Node.js · Express · REST APIs
 
-### 🗄️ Databases
+### 🎨 Frontend
+
+React · TypeScript
+
+### 🗄️ Database
 
 MongoDB
 
@@ -82,7 +94,7 @@ MongoDB
 
 Vercel · Render
 
-### 🤖 AI & Productivity
+### 🤖 AI
 
 ChatGPT API · Prompt Engineering
 
@@ -94,22 +106,27 @@ Git · GitHub
 
 ## 🚀 Featured Projects
 
-### 🖥️ ReWear — Community Clothing Exchange
+### 🧥 ReWear — Community Clothing Exchange
 
-Built using MERN stack with focus on backend architecture.
-Features include item listing, exchange system, and user interaction.
+* Built using MERN stack with backend-focused architecture
+* Designed APIs for item listing, exchange flow, and user interaction
+* Structured MongoDB schema for scalability
 
 ---
 
 ### 💬 IPL AI Chatbot
 
-AI-powered chatbot providing cricket insights using structured data + LLM integration.
+* AI chatbot providing real-time cricket insights
+* Integrated LLM with structured data for better accuracy
+* Backend API handling for dynamic queries
 
 ---
 
 ### 🤖 Idea Validation System
 
-Evaluates startup ideas based on feasibility, scalability, and demand.
+* Evaluates startup ideas using feasibility & scalability metrics
+* Backend-based scoring logic
+* Helps users make data-driven decisions
 
 ---
 
@@ -156,12 +173,12 @@ B.Tech Computer Science (AI)
 
 ---
 
-## 🚀 Popular Repositories
+## 🚀 Highlighted Work
 
-* ReWear (Community Clothing Exchange)
-* IPL AI Chatbot
-* Idea Validation System
+* ReWear (Backend-focused MERN system)
+* IPL AI Chatbot (LLM + API integration)
+* Idea Validation System (AI-based scoring engine)
 
 ---
 
-⭐ Thanks for visiting! If you like my work, consider giving a star.
+⭐ If you find my work useful, feel free to explore and connect.
