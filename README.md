@@ -7,7 +7,7 @@
 <!-- 🔥 TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Applications;Building+Real+World+Projects&speed=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Applications;Building+Real+World+Projects&speed=50" />
 </p>
 
 <!-- 🔥 PROFILE STATS -->
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthBhanushali&label=Profile%20Views&color=0e75b6&style=flat" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ParthBhanushali?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/ParthBhanushali?label=Followers&style=flat&color=0e75b6&cacheSeconds=60" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ```js
 const parth = {
-  role       : "Backend-Focused Full Stack Developer",
+  role       : "Full Stack Developer",
   education  : "B.Tech CS (AI) - 3rd Year",
   location   : "Gujarat, India 🇮🇳",
   focus      : "Scalable backend systems + AI-integrated applications",
@@ -54,7 +54,7 @@ const parth = {
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
-* System Design (scalability, APIs, load handling)
+* System Design
 * Production-level backend architecture
 
 ---
@@ -104,7 +104,6 @@ Node.js · Express · MongoDB · REST APIs · MERN Stack · AI Integration
 
 * Evaluates startup ideas using feasibility & scalability metrics
 * Backend scoring logic
-* Helps in data-driven decision making
 
 ---
 
